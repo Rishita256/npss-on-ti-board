@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1673625905 source:/home/edc/Documents/EDL_200020036/EDL_version1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1673897811 source:/home/edc/Documents/EDL_200020036/EDL_version2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1674248527 source:/home/edc/Documents/EDL_200020036/EDL_version3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1674499041 source:/home/edc/Documents/EDL_200020036/EDL_version5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1674851729 source:/home/edc/Documents/EDL_200020036/EDL_version6/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1675108786 source:/home/edc/Documents/EDL_200020036/EDL_version7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1675450416 source:/home/edc/Documents/EDL_200020036/EDL_version8/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1676054385 source:/home/edc/Documents/EDL_200020036/EDL_version9/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1676309955 source:/home/edc/Documents/EDL_200020036/EDL_version11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1676661233 source:/home/edc/Documents/EDL_200020036/EDL_version12/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1677528909 source:/home/edc/Documents/EDL_200020036/EDL_version14/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
